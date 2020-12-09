@@ -1,5 +1,5 @@
 # Todo-list-app
-Todo List App with all the CRUD functionalities with material design and deployed on firebase and github
+Todo List App with all the CRUD functionalities with material design and deployed on **firebase** and **github**
 
 ## To View the app click on the following links:
 * [https://todo-app-d4544.web.app](https://todo-app-d4544.web.app)  Firebase link
